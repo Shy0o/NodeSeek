@@ -7,8 +7,8 @@
 首先，将整个项目克隆到你的服务器上：
 
 ```bash
-git clone https://github.com/yowiv/NodeSeek-Signin.git
-cd NodeSeek-Signin
+git clone https://github.com/Shy0o/NodeSeek.git
+cd NodeSeek
 ```
 
 **第二步：配置环境变量**
