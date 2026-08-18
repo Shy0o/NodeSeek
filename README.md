@@ -1,11 +1,11 @@
-# NodeSeek-Signin
+# NodeSeek
 
 <div align="center">
   
 ![NodeSeek](https://img.shields.io/badge/NodeSeek-自动签到-green)
-![GitHub stars](https://img.shields.io/github/stars/yowiv/NodeSeek-Signin?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/Shy0o/NodeSeek?style=flat)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
-![License](https://img.shields.io/github/license/yowiv/NodeSeek-Signin)
+![License](https://img.shields.io/github/license/Shy0o/NodeSeek)
 
 </div>
 
